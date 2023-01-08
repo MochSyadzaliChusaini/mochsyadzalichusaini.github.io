@@ -1,5 +1,5 @@
 # Portfolio website
 
-by  <a href="https://github.com/akshay2211" rel="akshay2211">Moch Syadzali Chusaini</a>
+by  <a href="https://github.com/MochSyadzaliChusaini" rel="mochsyadzalichusaini">Moch Syadzali Chusaini</a>
 
- <a href="https://akshay2211.github.io/" rel="akshay2211">![](img/banner_dark.png)</a>
+ <a href="https://mochsyadzalichusaini.github.io" rel="akshay2211">![](img/banner_dark.png)</a>
