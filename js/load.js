@@ -1,6 +1,6 @@
 const socialtags = [
                    { img:"img/github.svg", link:"https://github.com/MochSyadzaliChusaini" },
-                   { img:"img/linkedin.svg", link:"https://www.linkedin.com/in/moch-syadzali-chusaini-33908225a/" },
+                   { img:"img/linkedin.svg", link:"https://www.linkedin.com/mochsyadzalichusaini" },
                    { img:"img/gitlab.svg", link:"https://gitlab.com/mochsyadzalichusaini" },
                    { img:"img/twitter.svg", link:"https://twitter.com/moch_syadzali" }
                 ],
